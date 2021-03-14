@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2021-03-14",
+    "grade": 4,
+    "status": true,
+    "studentId": 1
+  },
+  {
+    "date": "2021-03-14",
+    "grade": 0,
+    "status": false,
+    "studentId": 2
+  }
+]

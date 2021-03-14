@@ -1,0 +1,35 @@
+[
+  {
+    "address": "64874 Loftsgordon Center",
+    "dateOfJoin": "2020-10-24",
+    "dob": "1993-12-12",
+    "email": "namos0@samsung.com",
+    "firstname": "Northrup",
+    "lastname": "Amos",
+    "password": "csYpxJq",
+    "phone": "489-111-1928",
+    "salary": 100000
+  },
+  {
+    "address": "8 Washington Street",
+    "dateOfJoin": "2020-05-17",
+    "dob": "1998-03-11",
+    "email": "abrannan1@howstuffworks.com",
+    "firstname": "Amargo",
+    "lastname": "Brannan",
+    "password": "fIko0Z9RGHMP",
+    "phone": "970-667-4881",
+    "salary": 300000
+  },
+  {
+    "address": "3 Kenwood Pass",
+    "dateOfJoin": "2020-07-31",
+    "dob": "1990-07-17",
+    "email": "edavioud2@dailymail.co.uk",
+    "firstname": "Erica",
+    "lastname": "Davioud",
+    "password": "HIpG5BA8LrpL",
+    "phone": "876-805-5652",
+    "salary": 120000
+  }
+]

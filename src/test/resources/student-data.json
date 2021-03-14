@@ -1,0 +1,32 @@
+[
+  {
+    "address": "6091 Namekagon Point",
+    "dateOfJoin": "2020-10-04",
+    "dob": "2001-06-19",
+    "email": "grizzini0@fastcompany.com",
+    "firstname": "Gratia",
+    "lastname": "Rizzini",
+    "password": "wRFAZxt",
+    "phone": "876-384-4338"
+  },
+  {
+    "address": "6 Merchant Hill",
+    "dateOfJoin": "2020-05-04",
+    "dob": "2001-07-23",
+    "email": "mschwanden1@tiny.cc",
+    "firstname": "Marcile",
+    "lastname": "Schwanden",
+    "password": "lgta5vZS8o",
+    "phone": "991-825-3405"
+  },
+  {
+    "address": "4772 Ilene Junction",
+    "dateOfJoin": "2020-07-24",
+    "dob": "2001-05-04",
+    "email": "esongust2@unicef.org",
+    "firstname": "Elbert",
+    "lastname": "Songust",
+    "password": "eBeKWAQGM",
+    "phone": "737-746-0984"
+  }
+]
